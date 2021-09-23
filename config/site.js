@@ -7,6 +7,6 @@ module.exports = {
   ],
   description: "The wedding of Jo & Stella",
   author: "johannesridho",
-  trackingId: "G-Q65LP00L6N",
+  trackingId: "UA-208245890-1",
   defaultLang: "en",
 };
