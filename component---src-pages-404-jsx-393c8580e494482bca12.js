@@ -1,0 +1,2 @@
+(self.webpackChunkjo_stella=self.webpackChunkjo_stella||[]).push([[256],{1657:function(n,e,t){"use strict";t.r(e),t.d(e,{default:function(){return l}});var u=t(7294),f=t(5444);function l(){return(0,u.useEffect)((function(){(0,f.navigate)("/")}),[]),null}}}]);
+//# sourceMappingURL=component---src-pages-404-jsx-393c8580e494482bca12.js.map
