@@ -21,7 +21,7 @@ teamMember: [
     social: {
       web: "https://stellakn.com",
       linkedin: "stellakurniawan",
-      instagram: "stella_kn",
+      instagram: "stellaa_kn",
     }
   },
 ]
