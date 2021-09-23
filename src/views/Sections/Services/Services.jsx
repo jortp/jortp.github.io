@@ -22,7 +22,8 @@ const Services = ({ className, frontmatter }) => {
       <Row className="text-center">
         <Col lg={12} className="section-header">
           <hr className="divider my-4" />
-          <h4 className="section-heading text-secondary">2 Oct 2021 10.00 Western Indonesia Time</h4>
+          <h4 className="section-heading text-secondary">2 Oct 2021</h4>
+          <h5 className="section-heading text-secondary">10.00 Western Indonesia Time</h5>
           <h5 className="section-heading text-secondary">Bandung - Indonesia</h5>
           <hr className="divider my-4" />
           <br/>

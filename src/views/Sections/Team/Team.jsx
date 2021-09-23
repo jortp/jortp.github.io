@@ -50,7 +50,7 @@ const Team = ({ className, frontmatter }) => {
             I like to build new things (tech-related) and often compete in tech competitions.
             Feel free to check out my website using the link above to find more about it.
             Outside of the tech world, I really like to play video games, futsal, and chess.
-            If you think you are good at any of them, challenge me for a match! 😁
+            If you think you are good at any of them, challenge me to a match! 😁
           </p>
           <p className="text-muted">
             Stella:
@@ -60,7 +60,7 @@ const Team = ({ className, frontmatter }) => {
             from 2011 to 2015. I started my career in a tech company as a product manager,
             and I&apos;m currently working at Shopee Indonesia.
             I love to sing and reading novels. Aside from that, I really love chocolate and avocado.
-            So, after this pandemic ends, let&apos;s do karaoke and culinary! :)
+            So, after this pandemic ends, let&apos;s do karaoke and culinary!
           </p>
 
           <p className="text">Where are we going for our honeymoon?</p>
