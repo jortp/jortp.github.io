@@ -1,0 +1,16 @@
+.circle-fa-button {
+  width: 128px;
+  height: 128px;
+  border-radius: 100%;
+  display: flex;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  background-color: $gray-900;
+  &:active,
+  &:focus,
+  &:hover {
+    background-color: $primary;
+    color: white;
+  }
+}
