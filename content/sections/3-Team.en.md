@@ -5,7 +5,7 @@ subheader: ""
 content: ""
 teamMember: [
   {
-    imageFileName: "team/1.jpg",
+    imageFileName: "team/1.png",
     header: "Jo",
     subheader: "The Groom",
     social: {
@@ -15,7 +15,7 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/2.jpg",
+    imageFileName: "team/2.png",
     header: "Stella",
     subheader: "The Bride",
     social: {
