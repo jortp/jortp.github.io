@@ -12,7 +12,7 @@ const Services = ({ className, frontmatter }) => {
     return null;
   }
 
-  const { anchor, header: rootHeader, subheader: rootSubheader, services } = frontmatter;
+  const { anchor, header: rootHeader, services } = frontmatter;
 
   return (
     <PageSection className={className} id={anchor}>
@@ -27,7 +27,12 @@ const Services = ({ className, frontmatter }) => {
           <h5 className="section-heading text-secondary">Bandung - Indonesia</h5>
           <hr className="divider my-4" />
           <br/>
-          <h3 className="section-subheading text-muted">{rootSubheader}</h3>
+          <h3 className="section-subheading text-muted">The holy matrimony will be live-streamed here:</h3>
+          <iframe width="950" height="534" src="https://www.youtube.com/embed/5N-vKv7775g"
+            title="Jo & Stella" frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen/>
+          <h3 className="section-subheading text-muted top-margin">We will also post our updates on our Instagram with the link below:</h3>
         </Col>
         {services.map((service) => (
           <Col md={12} key={service.header}>
