@@ -29,7 +29,7 @@ const Services = ({ className, frontmatter }) => {
           <br/>
           <h3 className="section-subheading text-muted">The holy matrimony will be live-streamed here:</h3>
           <div className="resp-iframe">
-            <iframe width="950" height="534" src="https://www.youtube.com/embed/5N-vKv7775g"
+            <iframe width="950" height="534" src="https://www.youtube.com/embed/xRWAtn_KD-M"
               title="Jo & Stella" frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen/>
